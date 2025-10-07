@@ -1,4 +1,4 @@
-﻿# StudentGradeTracker
+
 # 🎓 Student Grade Tracker
 
 A simple **Java console-based application** to manage and track student grades.  
@@ -25,5 +25,6 @@ You can add students, view their marks, and calculate the average, highest, and 
 
 ---
 
-## 📂 Project Structure
+
+
 
